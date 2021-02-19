@@ -1,0 +1,4 @@
+DAY2(16.02.21):
+Learnt HTML basics, basic tags, semantic tags: <article><aside><details><figcaption><figure><footer><header><main<nav><summary><time>
+non-semantic tags:<div>etc.
+Advantages of former over later:easier to read,greater accessibility,consistent code.
